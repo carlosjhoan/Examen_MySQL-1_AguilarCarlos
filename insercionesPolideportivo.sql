@@ -66,6 +66,8 @@ INSERT INTO complejo_deportivo VALUES
 (5,'Complejo Deportivo Sangil',6, 'Polideportivo'),
 (6,'Complejo Deportivo Soacha', 8, 'Polideportivo');
 
+INSERT INTO complejo_deportivo VALUES
+(7,'Complejo Deportivo La Cumbre', 1, 'Polideportivo');
 -- Insertar datos en la tabla "sede"
 INSERT INTO sede VALUES
 (1,'sede1',1,12.300),
