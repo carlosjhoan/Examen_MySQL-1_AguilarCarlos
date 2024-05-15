@@ -87,6 +87,11 @@ INSERT INTO evento_comisario VALUES
 (2,3,5),
 (3,4,3);
 
+INSERT INTO evento_comisario VALUES
+(4,1,3),
+(5,3,5),
+(6,4,4);
+
 -- insertar datos en la tabla evento_complejo_deportivo
 INSERT INTO evento_complejo_deportivo VALUES
 (1,2,6),
