@@ -76,7 +76,7 @@ create table complejo_deportivo(
 );
 
 
-drop table complejo_polideportivo; 
+-- drop table complejo_polideportivo; 
 
 
 -- Creación de la tabla "evento_complejo_deprotivo"
